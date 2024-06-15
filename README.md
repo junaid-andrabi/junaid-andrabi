@@ -3,7 +3,7 @@
 
 👀 I’m interested in Data Structures, IDEs and Web Development.
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning Java
 
 💞️ I’m looking to collaborate with anyone with experience for gaining the same.
 
