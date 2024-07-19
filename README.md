@@ -1,7 +1,7 @@
 
 👋 Hi there, I’m Syed Junaid
 
-👀 I’m interested in Data Structures, IDEs and Web Development.
+👀 I’m interested in Data Structures.
 
 🌱 I’m currently learning Java
 
